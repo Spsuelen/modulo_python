@@ -39,7 +39,9 @@ print(num1,num2)
 #Não podemos atribuir informações aos  elementos da tupla separadamente,uma vez ela declarada. O que pode ser feito caso seja necessário é reescrever a tupla raiz, coma informação alterada.
 
 #10
-
+numero = (3)
+print(numero*3)
+#O resultado será nove.
 
 #11 Revise o código disponibilizado em src/primeiro.py. Em seguida altere o programa para que ele se torne generalista, ou seja, aceite qualquer quantidade de notas que cada aluno possa ter.
 
