@@ -78,9 +78,9 @@ print(numero*3)
 
 se o valor 3(três) for informado como entrada e armazenado na variável número.
 Resposta:
-numero = (3)
+numero = input(3)
 print(numero*3)
-#O resultado será nove.
+#O resultado será 3.
 
 11.Revise o código disponibilizado em src/primeiro.py. Em seguida altere o programa para que ele se torne generalista, i.e., aceite qualquer quantidade de notas que cada aluno pode ter.
 Resposta: 
